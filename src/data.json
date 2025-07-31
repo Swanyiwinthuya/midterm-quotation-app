@@ -1,14 +1,4 @@
 [
-  {
-    "item": "Product A",
-    "ppu": 100,
-    "qty": 5,
-    "discount": 20
-  },
-  {
-    "item": "Product B",
-    "ppu": 200,
-    "qty": 3,
-    "discount": 0
-  }
+  { "item": "Product A", "ppu": 100, "qty": 3, "discount": 20 },
+  { "item": "Product B", "ppu": 200, "qty": 2, "discount": 0 }
 ]
